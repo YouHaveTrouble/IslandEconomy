@@ -1,0 +1,9 @@
+lang:
+  en_us:
+    main-command-info-header: "-------- IslandEconomy Help --------"
+    main-command-info-desc: "shows this message"
+    main-command-invalid-argument: "Invalid argument"
+  pl_pl:
+    main-command-info-header: "-------- Pomoc IslandEconomy --------"
+    main-command-info-desc: "pokazuję tę wiadomość"
+    main-command-invalid-argument: "Nieprawidłowy argument"

@@ -1,0 +1,9 @@
+main: pl.laststation.youhavetrouble.isbank.isbank
+name: IslandEconomy
+version: 1.0.0
+description: Island Economy
+author: YouHaveTrouble
+commands:
+  isbank:
+    description: Main command for the plugin
+    usage: /<command> <arg>
